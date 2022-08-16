@@ -26,3 +26,4 @@ yarn-error.log*
 frontend/node_modules/.bin/acorn
 frontend/build/*
 frontend/package-lock.json
+frontend/package-lock.json
